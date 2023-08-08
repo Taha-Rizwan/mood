@@ -1,0 +1,89 @@
+{
+   "<20": {
+      "head": [
+         "images/beanie_1.gif",
+         "images/beanie_2.gif",
+         "images/beanie_3.gif"
+      ],
+      "body": [
+         "images/coat_1.gif",
+         "images/coat_2.gif",
+         "images/jacket_1.gif",
+         "images/jacket_2.gif"
+      ],
+      "legs": [
+         "images/baggy.gif",
+         "images/jeans.gif"
+      ],
+      "shoes": [
+         "images/shoes_1.gif",
+         "images/shoes_2.gif"
+      ]
+   },
+   "20-27": {
+      "head": [
+         "images/beanie_1.gif",
+         "images/beanie_2.gif",
+         "images/beanie_3.gif"
+      ],
+      "body": [
+         "images/coat_1.gif",
+         "images/coat_2.gif",
+         "images/jacket_1.gif",
+         "images/jacket_2.gif"
+      ],
+      "legs": [
+         "images/baggy.gif",
+         "images/jeans.gif"
+      ],
+      "shoes": [
+         "images/shoes_1.gif",
+         "images/shoes_2.gif"
+      ]
+   },
+   "27-35": {
+      "head": [
+         "images/cap_1.gif",
+         "images/cap_2.gif",
+         "images/cap_3.gif",
+         "images/head.gif"
+      ],
+      "body": [
+         "images/shirt_1.gif",
+         "images/shirt_2.gif",
+         "images/shirt_3.gif"
+      ],
+      "legs": [
+         "images/shorts_1.gif",
+         "images/jeans.gif"
+      ],
+      "shoes": [
+         "images/sandals.gif",
+         "images/flip_flops.gif"
+      ]
+   },
+   "35>": {
+      "head": [
+         "images/cap_1.gif",
+         "images/cap_2.gif",
+         "images/cap_3.gif",
+         "images/head.gif"
+      ],
+      "body": [
+         "images/shirt_3.gif",
+         "images/t-shirt.gif",
+         "images/tank_top.gif"
+
+      ],
+      "legs": [
+         "images/shorts_1.gif",
+         "images/shorts_2.gif",
+         "images/shorts_3.gif",
+         "images/jeans.gif"
+      ],
+      "shoes": [
+         "images/sandals.gif",
+         "images/flip_flops.gif"
+      ]
+   }
+}

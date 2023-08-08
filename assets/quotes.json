@@ -1,0 +1,62 @@
+{
+    "cloudy" : [
+       "A cloudy day is no match for a sunny disposition.",
+  "I love the cloudy days for they, too, contain beauty.",
+  "You can't make a cloudy day a sunny day, but can embrace it and decide it's going to be a good day after all.",
+  "A cloudy evening has the sun rays in them that shine through to make the earth glow.",
+  "There’s a bright spot in every dark cloud.",
+  "The sun always shines above the clouds.",
+  "She danced wild across the evening sky, dispersing clouds with the frill of her gown.",
+  "The air up there in the clouds is very pure and fine, bracing and delicious.",
+  "Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.",
+  "Don't forget: Beautiful sunsets need cloudy skies."     
+    ],
+    "sunny": [
+        "Sunny days give us happiness; stormy days give us wisdom.",
+  "Staring up at the sky on a bright, sunny day makes me dream and gives me ideas.",
+  "Laughter is the sun that drives winter from the human face.",
+  "Laughter is a sunbeam of the soul.",
+  "A good laugh is sunshine in the house.",
+  "It is the artist’s business to create sunshine when the sun fails.",
+  "The sun does not shine for a few trees and flowers, but for the wide world’s joy.",
+  "The sun is a daily reminder that we too can rise again from the darkness, that we too can shine our own light.",
+  "The sun will rise and set regardless. What we choose to do with the light while it’s here is up to us. Shine on!",
+  "The sun is new each day."
+    ],
+    "rainy": [
+         "Let the rain kiss you. Let the rain beat upon your head with silver liquid drops. Let the rain sing you a lullaby.",
+  "Rain is grace; rain is the sky descending to the earth; without rain, there would be no life.",
+  "Don’t confuse your path with your destination. Just because it’s stormy now doesn’t mean that you aren’t headed for sunshine.",
+  "And when it rains on your parade, look up rather than down. Without the rain, there would be no rainbow.",
+  "The best thing one can do when it’s raining is to let it rain.",
+  "The person who dances with you in the rain will most likely walk with you in the storms.",
+  "Thy fate is the common fate of all; Into each life, some rain must fall.",
+  "There are many things I do for amusement, but for happiness, I like to gather up my memories and go for a walk in the rain.",
+  "Celebrate the rain; it only means that the sun shall shine bigger and brighter than ever.",
+  "If the rain spoils our picnic, but saves a farmer’s crop, who are we to say it shouldn’t rain?"
+    ],
+    "snowy":[
+        "Snowflakes are kisses from heaven.",
+  "The snow doesn't give a soft white damn whom it touches.",
+  "Snow provokes responses that reach right back to childhood.",
+  "In the depth of winter, I finally learned that there was in me an invincible summer.",
+  "The snow is sparkling like a million little suns.",
+  "The first snow is like the first love, do you remember?",
+  "I love snow for the same reason I love Christmas: It brings people together while time stands still.",
+  "A snow day literally and figuratively falls from the sky, unbidden, and seems like a thing of wonder.",
+  "Snow falling soundlessly in the middle of the night will always fill my heart with sweet clarity.",
+  "The very fact of snow is such an amazement."
+    ],
+    "foggy": [
+       "Fog is just clouds that have fallen to the ground.",
+  "Fog is like a mirror that reflects the beauty of everything.",
+  "Fog is a cloud that touches the earth.",
+  "The fog comes on little cat feet.",
+  "Fog is a beautiful thing when it doesn't hide the truth.",
+  "Fog is a cloud that's made contact with the ground.",
+  "Fog is a cloud that's fallen to the ground and doesn't want to get up.",
+  "Fog is not just mist, it's a feeling of being lost in time and space.",
+  "Fog is like a mystery waiting to be unraveled.",
+  "Fog is like a veil that covers the world."
+    ]
+}

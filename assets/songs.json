@@ -1,0 +1,334 @@
+{
+    "sunny": [
+        {
+            "name": "Daylight",
+            "artist": "Joji, Diplo",
+            "link": "https://open.spotify.com/track/6Ed1q0X8oSKSm4IIhiQbYg?si=9a65e05bab5c47ba",
+            "image":"https://cdn.albumoftheyear.org/album/267422-daylight-1.jpg"
+        },{
+            "name": "Energy",
+            "artist": "Skepta, Wizkid",
+            "link": "https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd?si=c8f2f0b601ee4967",
+            "image":"https://songslover.vip/wp-content/uploads/Skepta-Wizkid-Bad-Energy-Stay-Far-Away-768x768.jpg"
+        },{
+            "name": "Lazy Day",
+            "artist": "Fuse ODG, Danny Ocean",
+            "link": "https://open.spotify.com/track/1dA9GzuP546CjJT0n9tZoe?si=9cb15fe42dd44cc3",
+            "image":"https://1.bp.blogspot.com/-tdNwUQrn63w/XeNO6Iz0MTI/AAAAAAAAACs/NRfB37avTlgMqd03ZtvOD14wSKjkB2oZQCEwYBhgL/s1600/Fuse%2BODG%2B-%2BLazy%2BDay%2B%2528feat.%2BDanny%2BOcean%2529%2B-%2BSingle.jpg"
+        },
+        {
+            "name": "Alone Together",
+            "artist": "Quadeca",
+            "link": "https://open.spotify.com/track/54763QVsltDu53H2d9UxJg?si=f8c20823161f44bb",
+            "image":"https://cdn2.albumoftheyear.org/250x/album/236730-alone-together.jpg"
+        },{
+            "name": "Something In The Way",
+            "artist": "Nirvana",
+            "link": "https://open.spotify.com/track/4gHnSNHs8RyVukKoWdS99f?si=3d96242ce175461c",
+            "image":"https://images.genius.com/6296859c11b1114d543bbfcf27e64062.894x894x1.jpg"
+        },{
+            "name": "Sacrifices",
+            "artist": "Dreamville",
+            "link": "https://open.spotify.com/track/7wTA0NKIm6T7nP2kaymU2a?si=e91a4e5e85184f8f",
+            "image":"https://fakazavibes.com/wp-content/uploads/2020/12/Dreamville-%E2%80%93-Sacrifices.jpg"
+        },
+        {
+            "name": "What's Up Danger",
+            "artist": "Blackway, Black Caviar",
+            "link": "https://open.spotify.com/track/5zsHmE2gO3RefVsPyw2e3T?si=c2c1e473d9384d40",
+            "image":"https://th.bing.com/th/id/OIP.AJVYe3IfhtA1RtBQR69a0wHaHa?pid=ImgDet&rs=1"
+        },
+        {
+            "name": "Longevity Flow",
+            "artist": "Stormzy",
+            "link": "https://open.spotify.com/track/4xftWzEdtv72VcDlVvA5t0?si=7be70efac2e44c06",
+            "image":"https://cdns-images.dzcdn.net/images/artist/8f531132c8216f5141171900525c88e1/500x500.jpg"
+        },
+        {
+            "name": "Hold",
+            "artist": "Chunkz, Yung Filly",
+            "link": "https://open.spotify.com/track/6MBinxCjbUDzDqup5jAxtd?si=86ae281773444993",
+            "image":"https://th.bing.com/th/id/OIP.pPujZszO7QxVw0Es8ZmBpAAAAA?pid=ImgDet&rs=1"
+        },
+        {
+            "name": "Am I Wrong",
+            "artist": "Nico & Vinz",
+            "link": "https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ?si=727449ef49d04713",
+            "image":"https://th.bing.com/th/id/OIP.is1H1N3huu0QTA_apE6f-wHaHa?pid=ImgDet&rs=1"
+        },
+        {
+            "name": "Location",
+            "artist": "Dave, Burna Boy",
+            "link": "https://open.spotify.com/track/3z4CGd63tpUn9a6oQSG0CI?si=44b964b58f774771",
+            "image":"https://th.bing.com/th/id/R.7cfa10f33c9056c1f020369befe50441?rik=s6NGFTZxQ0VNFw&pid=ImgRaw&r=0"
+        },
+        {
+            "name": "One Dance",
+            "artist": "Drake, Wizkid, Kyla",
+            "link": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0?si=aa4ad9af0d6740dc",
+            "image":"https://th.bing.com/th/id/OIP.1ANzcuLf993hlDccp5YifwHaHa?pid=ImgDet&rs=1"
+        }    
+    ],
+    "cloudy": [
+        {
+            "name": "Superstar Sh*t",
+            "artist": "Dominik Fike",
+            "link": "https://open.spotify.com/track/20j7l6tFtc5lynXpbOQg1O?si=f660630c112d4f69",
+            "image":"https://th.bing.com/th/id/OIP.FAwpYMVb2iRXJrm8MHdYXgHaHa?pid=ImgDet&rs=1"
+        },{
+            "name": "Circles",
+            "artist": "Post Malone",
+            "link": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb?si=32300c51a39c4528",
+            "image":"https://th.bing.com/th/id/OIP.AvhMz-oY-brxCE9rDrpO8wAAAA?pid=ImgDet&rs=1"
+        },{
+            "name": "Sisyphus",
+            "artist": "Quadeca",
+            "link": "https://open.spotify.com/track/5jxJX7R3q0Wum8BLlqprdq?si=2cab8104c9f2491f",
+            "image":"https://th.bing.com/th/id/OIP.kDzf488XV1Vo6iOaq-Gf1QHaHa?pid=ImgDet&rs=1"
+        },
+        {
+            "name": "Alone Together",
+            "artist": "Quadeca",
+            "link": "https://open.spotify.com/track/54763QVsltDu53H2d9UxJg?si=f8c20823161f44bb",
+            "image":"https://cdn2.albumoftheyear.org/250x/album/236730-alone-together.jpg"
+        },{
+            "name": "Something In The Way",
+            "artist": "Nirvana",
+            "link": "https://open.spotify.com/track/4gHnSNHs8RyVukKoWdS99f?si=3d96242ce175461c",
+            "image":"https://images.genius.com/6296859c11b1114d543bbfcf27e64062.894x894x1.jpg"
+        },{
+            "name": "Sacrifices",
+            "artist": "Dreamville",
+            "link": "https://open.spotify.com/track/7wTA0NKIm6T7nP2kaymU2a?si=e91a4e5e85184f8f",
+            "image":"https://fakazavibes.com/wp-content/uploads/2020/12/Dreamville-%E2%80%93-Sacrifices.jpg"
+        },
+        {
+            "name": "Many Men",
+            "artist": "50 Cent",
+            "link": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi?si=08f3855dc6f24f9d",
+            "image":"https://th.bing.com/th/id/OIP.Xg6yr4CeHl-_L0AuP4MU9AHaHa?pid=ImgDet&rs=1"
+        },
+        {
+            "name": "Glimpse of Us",
+            "artist": "Joji",
+            "link": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ?si=7546a47ac6d842d6",
+            "image":"https://th.bing.com/th/id/R.4968b60825937dab1be7a70887d1133c?rik=jIJxU8xVOJlk3w&pid=ImgRaw&r=0"
+        },
+        {
+            "name": "fantasyworld",
+            "artist": "Quadeca",
+            "link": "https://open.spotify.com/track/3VheddjCE7GCHzeKIJnRzK?si=cb811f89a38b4f7d",
+            "image":"https://th.bing.com/th/id/OIP.sHM3ony5xV9ah_kA74-iBAHaHa?pid=ImgDet&rs=1"
+        },
+        {
+            "name": "Creepin'",
+            "artist": "Metro Boomin",
+            "link": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO?si=d067fa0087ae4d68",
+            "image":"https://th.bing.com/th/id/R.4cbc53578e1bf5f5dfde673d635afcda?rik=eTwtxka93oEdhg&pid=ImgRaw&r=0"
+        },
+        {
+            "name": "Figure it Out",
+            "artist": "Royal Blood",
+            "link": "https://open.spotify.com/track/3MjrueDQKVr6xDDseZwhEd?si=5fd826464dc245d4",
+            "image":"https://th.bing.com/th/id/OIP.lqjRigYaCxfW8bQlVWPD8QHaHa?pid=ImgDet&rs=1"
+        },
+        {
+            "name": "Watch This",
+            "artist": "Lil Uzi Vert, ARIZONATEARS",
+            "link": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup?si=8973caf4baf741f1",
+            "image":"https://th.bing.com/th/id/OIP.uaxx_K6GMMnQ6blV9d1sYAHaHa?pid=ImgDet&rs=1"
+        }   
+    ],
+    "rainy": [
+        {
+            "name": "That's Not Me",
+            "artist": "Skepta, Jme",
+            "link": "https://open.spotify.com/track/3tTDOodJcr6vKF2DASlwMZ?si=1d006edec3b245fa",
+            "image":"https://th.bing.com/th/id/OIP.5CEEtFICiieLTq3GwfXGUgHaHa?pid=ImgDet&rs=1"
+        },{
+            "name": "Rich Flex",
+            "artist": "Drake",
+            "link": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N?si=c2b56813e50e4952",
+            "image":"https://th.bing.com/th/id/OIP.Ajb2HyRyqFyF4zg7v6JkngEsEs?pid=ImgDet&rs=1"
+        },{
+            "name": "house settling",
+            "artist": "Quadeca",
+            "link": "https://open.spotify.com/track/10zPOOHRblprd5uilHAXuC?si=c055d2e3ed7a4627",
+            "image":"https://th.bing.com/th/id/OIP.sHM3ony5xV9ah_kA74-iBAHaHa?pid=ImgDet&rs=1"
+        },
+        {
+            "name": "3 Nights",
+            "artist": "Dominik Fike",
+            "link": "https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u?si=c75ffb97200c419a",
+            "image":"https://t1.daumcdn.net/cfile/tistory/9916D2425EB40D1C04"
+        },{
+            "name": "Rover",
+            "artist": "S1mba, DTG",
+            "link": "https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf?si=af498a771f7e4086",
+            "image":"https://th.bing.com/th/id/OIP.I7WPEXHXXz1KHsGiUP_evgHaHa?pid=ImgDet&w=500&h=500&rs=1"
+        },{
+            "name": "MICE",
+            "artist": "Aitch",
+            "link": "https://open.spotify.com/track/07SFiPNu6hQ98zLyDZThC1?si=0bd6d669f7f24e63",
+            "image":"https://th.bing.com/th/id/R.740e9379315d926e821e9d3bf7679713?rik=MArgXySvurqs2Q&pid=ImgRaw&r=0"
+        },
+        {
+            "name": "Ballin'",
+            "artist": "Roddy Ricch",
+            "link": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY?si=0dc19377c3e14e35",
+            "image":"https://i.pinimg.com/originals/62/d8/04/62d804bb0e92ed2294accdd95fffddab.jpg"
+        },
+        {
+            "name": "Red Card",
+            "artist": "Frisco, Skepta, Jme, Shorty",
+            "link": "https://open.spotify.com/track/0xWuUBWmDIILuPUUTYpZLC?si=ad78ef31a214497b",
+            "image":"https://th.bing.com/th/id/OIP.XediTkNaKYGiU52bp8grcQHaHa?pid=ImgDet&rs=1"
+        },
+        {
+            "name": "Man Don't Care",
+            "artist": "Jme, Giggs",
+            "link": "https://open.spotify.com/track/04tGB3iBg3EFjmHt7XmOoO?si=35a6a7d273c343e3",
+            "image":"https://th.bing.com/th/id/OIP.AHwDmEVeonvbDbQBgko_AgAAAA?pid=ImgDet&rs=1"
+        },
+        {
+            "name": "Stressed Out",
+            "artist": "Twenty One Pilots",
+            "link": "https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn?si=4a11e530e5d94093",
+            "image":"https://th.bing.com/th/id/R.4dfba43497a482cfde6fa1fd4f044747?rik=PR%2frBLJskvPXLQ&pid=ImgRaw&r=0"
+        },
+        {
+            "name": "Mel Made Me Do It",
+            "artist": "Stormzy",
+            "link": "https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe?si=eec1596efcb44beb",
+            "image":"https://th.bing.com/th/id/OIP.gCvs6cFHXD28T2hsu8AkWQHaHa?pid=ImgDet&rs=1"
+        }
+    ],
+    "snowy": [
+        {
+            "name": "That's Not Me",
+            "artist": "Skepta, Jme",
+            "link": "https://open.spotify.com/track/3tTDOodJcr6vKF2DASlwMZ?si=1d006edec3b245fa",
+            "image":"https://th.bing.com/th/id/OIP.5CEEtFICiieLTq3GwfXGUgHaHa?pid=ImgDet&rs=1"
+        },{
+            "name": "Rich Flex",
+            "artist": "Drake",
+            "link": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N?si=c2b56813e50e4952",
+            "image":"https://th.bing.com/th/id/OIP.Ajb2HyRyqFyF4zg7v6JkngEsEs?pid=ImgDet&rs=1"
+        },{
+            "name": "house settling",
+            "artist": "Quadeca",
+            "link": "https://open.spotify.com/track/10zPOOHRblprd5uilHAXuC?si=c055d2e3ed7a4627",
+            "image":"https://th.bing.com/th/id/OIP.sHM3ony5xV9ah_kA74-iBAHaHa?pid=ImgDet&rs=1"
+        },
+        {
+            "name": "3 Nights",
+            "artist": "Dominik Fike",
+            "link": "https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u?si=c75ffb97200c419a",
+            "image":"https://t1.daumcdn.net/cfile/tistory/9916D2425EB40D1C04"
+        },{
+            "name": "Rover",
+            "artist": "S1mba, DTG",
+            "link": "https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf?si=af498a771f7e4086",
+            "image":"https://th.bing.com/th/id/OIP.I7WPEXHXXz1KHsGiUP_evgHaHa?pid=ImgDet&w=500&h=500&rs=1"
+        },{
+            "name": "MICE",
+            "artist": "Aitch",
+            "link": "https://open.spotify.com/track/07SFiPNu6hQ98zLyDZThC1?si=0bd6d669f7f24e63",
+            "image":"https://th.bing.com/th/id/R.740e9379315d926e821e9d3bf7679713?rik=MArgXySvurqs2Q&pid=ImgRaw&r=0"
+        },
+        {
+            "name": "Ballin'",
+            "artist": "Roddy Ricch",
+            "link": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY?si=0dc19377c3e14e35",
+            "image":"https://i.pinimg.com/originals/62/d8/04/62d804bb0e92ed2294accdd95fffddab.jpg"
+        },
+        {
+            "name": "Red Card",
+            "artist": "Frisco, Skepta, Jme, Shorty",
+            "link": "https://open.spotify.com/track/0xWuUBWmDIILuPUUTYpZLC?si=ad78ef31a214497b",
+            "image":"https://th.bing.com/th/id/OIP.XediTkNaKYGiU52bp8grcQHaHa?pid=ImgDet&rs=1"
+        },
+        {
+            "name": "Man Don't Care",
+            "artist": "Jme, Giggs",
+            "link": "https://open.spotify.com/track/04tGB3iBg3EFjmHt7XmOoO?si=35a6a7d273c343e3",
+            "image":"https://th.bing.com/th/id/OIP.AHwDmEVeonvbDbQBgko_AgAAAA?pid=ImgDet&rs=1"
+        },
+        {
+            "name": "Stressed Out",
+            "artist": "Twenty One Pilots",
+            "link": "https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn?si=4a11e530e5d94093",
+            "image":"https://th.bing.com/th/id/R.4dfba43497a482cfde6fa1fd4f044747?rik=PR%2frBLJskvPXLQ&pid=ImgRaw&r=0"
+        },
+        {
+            "name": "Mel Made Me Do It",
+            "artist": "Stormzy",
+            "link": "https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe?si=eec1596efcb44beb",
+            "image":"https://th.bing.com/th/id/OIP.gCvs6cFHXD28T2hsu8AkWQHaHa?pid=ImgDet&rs=1"
+        }
+    ]   ,
+    "foggy" : [
+        {
+            "name": "That's Not Me",
+            "artist": "Skepta, Jme",
+            "link": "https://open.spotify.com/track/3tTDOodJcr6vKF2DASlwMZ?si=1d006edec3b245fa",
+            "image":"https://th.bing.com/th/id/OIP.5CEEtFICiieLTq3GwfXGUgHaHa?pid=ImgDet&rs=1"
+        },{
+            "name": "Rich Flex",
+            "artist": "Drake",
+            "link": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N?si=c2b56813e50e4952",
+            "image":"https://th.bing.com/th/id/OIP.Ajb2HyRyqFyF4zg7v6JkngEsEs?pid=ImgDet&rs=1"
+        },{
+            "name": "house settling",
+            "artist": "Quadeca",
+            "link": "https://open.spotify.com/track/10zPOOHRblprd5uilHAXuC?si=c055d2e3ed7a4627",
+            "image":"https://th.bing.com/th/id/OIP.sHM3ony5xV9ah_kA74-iBAHaHa?pid=ImgDet&rs=1"
+        },
+        {
+            "name": "3 Nights",
+            "artist": "Dominik Fike",
+            "link": "https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u?si=c75ffb97200c419a",
+            "image":"https://t1.daumcdn.net/cfile/tistory/9916D2425EB40D1C04"
+        },{
+            "name": "Rover",
+            "artist": "S1mba, DTG",
+            "link": "https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf?si=af498a771f7e4086",
+            "image":"https://th.bing.com/th/id/OIP.I7WPEXHXXz1KHsGiUP_evgHaHa?pid=ImgDet&w=500&h=500&rs=1"
+        },{
+            "name": "MICE",
+            "artist": "Aitch",
+            "link": "https://open.spotify.com/track/07SFiPNu6hQ98zLyDZThC1?si=0bd6d669f7f24e63",
+            "image":"https://th.bing.com/th/id/R.740e9379315d926e821e9d3bf7679713?rik=MArgXySvurqs2Q&pid=ImgRaw&r=0"
+        },
+        {
+            "name": "Ballin'",
+            "artist": "Roddy Ricch",
+            "link": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY?si=0dc19377c3e14e35",
+            "image":"https://i.pinimg.com/originals/62/d8/04/62d804bb0e92ed2294accdd95fffddab.jpg"
+        },
+        {
+            "name": "Red Card",
+            "artist": "Frisco, Skepta, Jme, Shorty",
+            "link": "https://open.spotify.com/track/0xWuUBWmDIILuPUUTYpZLC?si=ad78ef31a214497b",
+            "image":"https://th.bing.com/th/id/OIP.XediTkNaKYGiU52bp8grcQHaHa?pid=ImgDet&rs=1"
+        },
+        {
+            "name": "Man Don't Care",
+            "artist": "Jme, Giggs",
+            "link": "https://open.spotify.com/track/04tGB3iBg3EFjmHt7XmOoO?si=35a6a7d273c343e3",
+            "image":"https://th.bing.com/th/id/OIP.AHwDmEVeonvbDbQBgko_AgAAAA?pid=ImgDet&rs=1"
+        },
+        {
+            "name": "Stressed Out",
+            "artist": "Twenty One Pilots",
+            "link": "https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn?si=4a11e530e5d94093",
+            "image":"https://th.bing.com/th/id/R.4dfba43497a482cfde6fa1fd4f044747?rik=PR%2frBLJskvPXLQ&pid=ImgRaw&r=0"
+        },
+        {
+            "name": "Mel Made Me Do It",
+            "artist": "Stormzy",
+            "link": "https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe?si=eec1596efcb44beb",
+            "image":"https://th.bing.com/th/id/OIP.gCvs6cFHXD28T2hsu8AkWQHaHa?pid=ImgDet&rs=1"
+        }
+    ]
+}
